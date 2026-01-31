@@ -1,7 +1,6 @@
 - BigQuery Sandbox UI upload limit prevented direct upload of large CSV files
 - Google Drive was used as a staging layer to ingest large CSV files
 - All 12 monthly CSV files were successfully loaded into the cyclistic_raw dataset
-- Raw data was preserved without modification
-- Combined all 12 monthly tables into a single master table using UNION ALL
-- Created raw master table: cyclistic_raw.all_trips_raw
+- Created processed dataset: cyclistic_processed
+- Combined all monthly tables into cyclistic_processed.trips_all_raw using UNION ALL
 - Verified row counts and schema consistency after combination ( USing python pandas chunking method)
