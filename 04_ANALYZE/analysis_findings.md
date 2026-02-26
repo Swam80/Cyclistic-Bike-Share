@@ -1,9 +1,5 @@
 # Cyclistic Case Study — Step 4: Analysis
 
-Author: Swamesh Lotlikar  
-Tool: BigQuery Sandbox  
-Phase: ANALYZE  
-
 ---
 
 ## Objective
