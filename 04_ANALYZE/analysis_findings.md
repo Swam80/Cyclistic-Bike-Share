@@ -115,7 +115,7 @@ ORDER BY member_casual, month;
 
 ## Graph
 
-![Customer TYpe wise Seasonal Trend](<img width="1170" height="586" alt="image" src="https://github.com/user-attachments/assets/72d23455-a031-4308-99c9-5f9765fb8e14" />)
+![Customer TYpe wise Seasonal Trend]()
 
 ## Key Observations
 
