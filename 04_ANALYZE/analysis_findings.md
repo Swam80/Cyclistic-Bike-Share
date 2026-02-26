@@ -139,7 +139,7 @@ ORDER BY member_casual, month;
 
 ---
 
-# Integrated Behavioral Insights
+# Overall Insights
 
 Across duration, weekday usage, and seasonality:
 
@@ -170,8 +170,6 @@ However:
   - Weekend promotions
   - Cost-benefit framing for frequent seasonal users
 
-This analysis provides data-backed behavioral segmentation to inform conversion strategy.
-
 ---
 
 # Conclusion
@@ -182,5 +180,4 @@ The analysis phase successfully identified:
 - Strong seasonal trends among casual riders
 - Weekday commuter patterns among members
 - Significant ride duration differences
-
-These findings form the foundation for dashboard development and strategic business recommendations in the Share phase.
+.
