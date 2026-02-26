@@ -6,9 +6,6 @@
 
 Analyze behavioral differences between casual riders and annual members to inform a data-driven strategy for converting casual riders into members.
 
-Dataset used:
-`cyclistic_processed.trips_all_cleaned`
-
 Total rows analyzed: 5,574,893
 
 ---
@@ -114,6 +111,11 @@ FROM `cyclistic_processed.trips_all_cleaned`
 GROUP BY member_casual, month
 ORDER BY member_casual, month;
 ```
+
+
+## Graph
+
+![Customer TYpe wise Seasonal Trend](<img width="1170" height="586" alt="image" src="https://github.com/user-attachments/assets/72d23455-a031-4308-99c9-5f9765fb8e14" />)
 
 ## Key Observations
 
