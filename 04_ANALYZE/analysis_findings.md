@@ -115,7 +115,7 @@ ORDER BY member_casual, month;
 
 ## Graph
 
-![Customer TYpe wise Seasonal Trend]()
+![Customer TYpe wise Seasonal Trend](https://github.com/Swam80/Cyclistic-Bike-Share/blob/main/04_ANALYZE/analyze_seasonal.png)
 
 ## Key Observations
 
