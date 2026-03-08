@@ -3,4 +3,4 @@
 - All 12 monthly CSV files were successfully loaded into the cyclistic_raw dataset
 - Created processed dataset: cyclistic_processed
 - Combined all monthly tables into cyclistic_processed.trips_all_raw using UNION ALL
-- Verified row counts and schema consistency after combination ( USing python pandas chunking method)
+
