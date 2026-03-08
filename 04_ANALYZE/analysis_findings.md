@@ -157,21 +157,6 @@ Across duration, weekday usage, and seasonality:
 
 ---
 
-# Strategic Implications
-
-The goal is to convert casual riders into annual members.
-
-However:
-
-- Casual riders do not currently behave like commuters.
-- Conversion messaging must reflect leisure behavior.
-- Marketing efforts should focus on:
-  - Summer campaigns
-  - Weekend promotions
-  - Cost-benefit framing for frequent seasonal users
-
----
-
 # Conclusion
 
 The analysis phase successfully identified:
