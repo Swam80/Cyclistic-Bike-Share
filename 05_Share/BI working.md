@@ -91,15 +91,15 @@ Below is the interactive Power BI dashboard created to analyze behavioral differ
 
 ## Dashboard Overview
 
-![Cyclistic Dashboard]([images/dashboard_overview.png](https://github.com/Swam80/Cyclistic-Bike-Share/blob/main/05_Share/Overview.JPG))
+![Cyclistic Dashboard](https://github.com/Swam80/Cyclistic-Bike-Share/blob/main/05_Share/Overview.JPG)
 
 ## Behavioral Analysis
 
-![Ride Analysis]([images/ride_analysis.png](https://github.com/Swam80/Cyclistic-Bike-Share/blob/main/05_Share/Behavioral_analysis.JPG))
+![Ride Analysis](https://github.com/Swam80/Cyclistic-Bike-Share/blob/main/05_Share/Behavioral_analysis.JPG))
 
 ## Conversion Prospects
 
-![Conversion Opportunities]([images/time_patterns.png](https://github.com/Swam80/Cyclistic-Bike-Share/blob/main/05_Share/COnversion%20Opportunities.JPG))
+![Conversion Opportunities](https://github.com/Swam80/Cyclistic-Bike-Share/blob/main/05_Share/COnversion%20Opportunities.JPG)
 
 # Key Visualization Insights
 
