@@ -89,17 +89,17 @@ This helps reveal **daily riding patterns and peak usage periods**.
 
 Below is the interactive Power BI dashboard created to analyze behavioral differences between casual riders and annual members.
 
-## Full Dashboard
+## Dashboard Overview
 
-![Cyclistic Dashboard](images/dashboard_overview.png)
+![Cyclistic Dashboard]([images/dashboard_overview.png](https://github.com/Swam80/Cyclistic-Bike-Share/blob/main/05_Share/Overview.JPG))
 
-## Ride Distribution and Duration Insights
+## Behavioral Analysis
 
-![Ride Analysis](images/ride_analysis.png)
+![Ride Analysis]([images/ride_analysis.png](https://github.com/Swam80/Cyclistic-Bike-Share/blob/main/05_Share/Behavioral_analysis.JPG))
 
-## Time-based Usage Patterns
+## Conversion Prospects
 
-![Time Patterns](images/time_patterns.png)
+![Conversion Opportunities]([images/time_patterns.png](https://github.com/Swam80/Cyclistic-Bike-Share/blob/main/05_Share/COnversion%20Opportunities.JPG))
 
 # Key Visualization Insights
 
@@ -126,9 +126,6 @@ The dashboard highlights three major behavioral differences.
 
 ---
 
-# Dashboard Value for Stakeholders
-
-The Power BI dashboard allows stakeholders to:
 
 - Quickly understand rider behavior patterns
 - Identify opportunities to **convert casual riders into members**
