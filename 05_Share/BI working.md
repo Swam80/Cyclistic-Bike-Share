@@ -125,10 +125,3 @@ The dashboard highlights three major behavioral differences.
 - Members ride more **consistently throughout the year**.
 
 ---
-
-
-- Quickly understand rider behavior patterns
-- Identify opportunities to **convert casual riders into members**
-- Explore patterns interactively through filters
-
-This visualization layer translates **complex SQL analysis into clear, actionable insights** for the marketing team.
