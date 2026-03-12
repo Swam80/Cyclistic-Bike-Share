@@ -35,6 +35,8 @@ Understanding these behavioral differences can help design targeted marketing st
 ---
 
 ## Repository Structure
+
+```text
 Cyclistic-Bike-Share
 │
 ├── 01_ASK_business_problem.md
@@ -49,12 +51,11 @@ Cyclistic-Bike-Share
 ├── 04_ANALYZE/
 │   Exploratory analysis, aggregated metrics, and insights derived from the data.
 │
-├── 05_Share/
+├── 05_SHARE/
 │   Power BI dashboard development and visualization documentation.
 │
 └── README.md
     Project overview and documentation.
-
 
 ---
 
