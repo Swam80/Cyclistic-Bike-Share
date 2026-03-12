@@ -5,7 +5,7 @@ The objective of this case study is to analyze how **casual riders and annual me
 
 The project follows the **Google Data Analytics framework**:
 
-**Ask → Prepare → Process → Analyze → Share**
+**[Ask](https://github.com/Swam80/Cyclistic-Bike-Share/blob/main/01_ASK_business_problem.md) → [Prepare](https://github.com/Swam80/Cyclistic-Bike-Share/blob/main/02_PREPARE_data_overview.md) → [Process](https://github.com/Swam80/Cyclistic-Bike-Share/tree/main/03_PROCESS_sql_cleaning) → [Analyze](https://github.com/Swam80/Cyclistic-Bike-Share/blob/main/04_ANALYZE/analysis_findings.md) → [Share](https://github.com/Swam80/Cyclistic-Bike-Share/blob/main/05_Share/BI%20working.md)**
 
 The analysis was conducted using **Google BigQuery** for data processing and **Microsoft Power BI** for visualization.
 
@@ -86,7 +86,7 @@ These insights help understand how casual riders differ from annual members in t
 
 ---
 
-# Dashboard
+# Dashboard [Github Link](https://github.com/Swam80/Cyclistic-Bike-Share/blob/main/05_Share/BI%20working.md)
 
 A dashboard was created in **Microsoft Power BI** to visualize key metrics such as:
 
