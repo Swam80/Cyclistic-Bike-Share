@@ -3,7 +3,7 @@
 This repository contains my capstone project for the **Google Data Analytics Professional Certificate**.
 The objective of this case study is to analyze how **casual riders and annual members use Cyclistic bikes differently** and provide data-driven insights to help the marketing team convert casual riders into annual members.
 
-The project follows the **Google Data Analytics framework** (CLick on the links below to redirect to respective stage):
+The project follows the **Google Data Analytics framework** (Click on the links below to redirect to respective stage):
 
 **[Ask](https://github.com/Swam80/Cyclistic-Bike-Share/blob/main/01_ASK_business_problem.md) → [Prepare](https://github.com/Swam80/Cyclistic-Bike-Share/blob/main/02_PREPARE_data_overview.md) → [Process](https://github.com/Swam80/Cyclistic-Bike-Share/tree/main/03_PROCESS_sql_cleaning) → [Analyze](https://github.com/Swam80/Cyclistic-Bike-Share/blob/main/04_ANALYZE/analysis_findings.md) → [Share](https://github.com/Swam80/Cyclistic-Bike-Share/blob/main/05_Share/BI%20working.md)**
 
